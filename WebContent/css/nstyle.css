@@ -1,0 +1,53 @@
+/* css스타일 적용이 브라우져에서 새로고침이 안됌 이럴떈 브라우져 개인설정 들어가서 기록삭제해줘야함.
+크롬의 경우. 상단 바 옆에 ... 클릭 -> 설정탭 -> 짝대기 3개아이콘 클릭 -> 개인정보및 보안 -> 인터넷 사용기록 삭제눌러주기
+ */
+table {
+	border: 2px solid #ccc;
+}
+tr,td{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+table,tr,td,th{
+	padiing: 5px;
+}
+table.twidth{
+	width: 600px;	
+}
+caption{
+	background-color: #ccc;
+	height: 20px;
+	padding: 10px 0;
+	font-family: 맑은고딕;
+	font-weight: bold;
+	color: #898989;
+}
+#content{
+	border: 1px solid #ccc;
+	height: 100px;
+	font-size: 15px;
+}
+.left{
+	text-align: left;
+}
+
+.txt{
+	width: 380px;
+	height: 150px;
+	padding: 5px;
+	margin: 0;
+	background-color: #eee;
+}
+a{
+	margin: 20px 20px;
+}
+.inp{
+	margin: 0;
+	padding: 5px;
+	width: 380px;
+	background-color: #eee;
+}
+div{
+	margin-left: 100px;
+}
+

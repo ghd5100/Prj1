@@ -1,0 +1,10 @@
+diff a/WebContent/index.jsp b/WebContent/index.jsp	(rejected hunks)
+@@ -17,7 +17,7 @@
+ 
+ <h3>step3</h3>
+ 
+-
++<h3>brh1작업 stpe01</h3>
+ 
+ 
+ </body>
